@@ -1,0 +1,9 @@
+{
+    "CHUNK_SIZE": 100,
+    "EACH_SPIDER_URLS_PORTION": 80,
+    "CHUNK_SLEEP_TIME": 0.1,
+    "RETRY_TIMES": 3,
+    "RETRY_SLEEP_TIME": 1,
+    "PROXY": true,
+    "OUTPUT_FILE_TYPE": "json"
+}

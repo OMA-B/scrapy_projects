@@ -1,0 +1,191 @@
+Spider closed: finished. Duration: 2.562010539 minutes
+Spider closed: finished. Duration: 1.0369739333788555 minutes
+Spider closed: finished. Duration: 0.5120460748672485 minutes
+Spider closed: finished. Duration: 4.170891443888347 minutes
+Spider closed: finished. Duration: 1.3952805439631144 minutes
+Spider closed: finished. Duration: 1.4479329665501912 minutes
+Spider closed: finished. Duration: 0.03032810688018799 minutes
+Spider closed: finished. Duration: 6.662536398569743 minutes
+Spider closed: finished. Duration: 10.024229347705841 minutes
+Spider closed: finished. Duration: 20.53680601119995 minutes
+Spider closed: finished. Duration: 15.158484292030334 minutes
+Spider closed: shutdown. Duration: 0.8052092711130778 minutes
+Spider closed: finished. Duration: 6.74287478129069e-05 minutes
+Spider closed: finished. Duration: 6.823142369588216e-05 minutes
+Spider closed: finished. Duration: 15.67848326365153 minutes
+Spider closed: finished. Duration: 1.4810119271278381 minutes
+Spider closed: finished. Duration: 1.5317054867744446 minutes
+SOverall Duration: 3.5762786865234374e-08 minutes
+SOverall Duration: 3.178914388020833e-08 minutes
+Spider_1 closed: finished. Duration: 6.381157195568084 minutes
+Spider_2 closed: finished. Duration: 10.86912313302358 minutes
+Spider_3 closed: finished. Duration: 15.407631361484528 minutes
+SOverall Duration: 1.1920928955078126e-08 minutes
+Spider_1 closed: finished. Duration: 0.4820433815320333 minutes
+Spider_2 closed: finished. Duration: 0.8583229581514994 minutes
+Spider_3 closed: finished. Duration: 1.1509742617607117 minutes
+Overall Duration: 3.178914388020833e-08 minutes
+Spider_1 closed: finished. Duration: 0.4958178679148356 minutes
+Spider_2 closed: finished. Duration: 0.8142661015192668 minutes
+Spider_3 closed: finished. Duration: 1.0986100713411966 minutes
+Overall Duration: 4.3710072835286455e-08 minutes
+Overall Duration: 7.947285970052083e-09 minutes
+Spider_1 closed: finished. Duration: 0.536084528764089 minutes
+Spider_2 closed: finished. Duration: 0.8863079826037089 minutes
+Spider_3 closed: finished. Duration: 1.2414262652397157 minutes
+Spider_1 closed: finished. Duration: 0.5822463353474935 minutes
+Spider_2 closed: finished. Duration: 0.898431142171224 minutes
+Spider_3 closed: finished. Duration: 1.2260500272115071 minutes
+Overall Duration: 1.2390530149141947 minutes
+Spider_1 closed: finished. Duration: 0.5424081206321716 minutes
+Spider_2 closed: finished. Duration: 0.9893535296122233 minutes
+Spider_3 closed: finished. Duration: 1.3280510822931926 minutes
+Overall Duration: 1.3596628705660503 minutes
+Spider_1 closed: shutdown. Duration: 9.90664960940679 minutes
+Spider_2 closed: finished. Duration: 17.18324958086014 minutes
+Spider_3 closed: finished. Duration: 17.283016431331635 minutes
+Spider_2 closed: finished. Duration: 9.644457932313284 minutes
+Spider_3 closed: finished. Duration: 9.75169392824173 minutes
+Spider_1 closed: finished. Duration: 11.87084306081136 minutes
+Total duration: 11.92 minutes
+Spider_3 closed: finished. Duration: 11.241992235183716 minutes
+Spider_3 closed: finished. Duration: 11.515855280558268 minutes
+Spider_3 closed: finished. Duration: 11.590340836842854 minutes
+Spider_3 closed: finished. Duration: 11.87780036131541 minutes
+Spider_3 closed: finished. Duration: 11.88088854153951 minutes
+Spider_3 closed: finished. Duration: 11.945115395387013 minutes
+Spider_3 closed: finished. Duration: 11.956397219498951 minutes
+Spider_3 closed: finished. Duration: 12.045311756928761 minutes
+Spider_2 closed: finished. Duration: 12.584917016824086 minutes
+Spider_1 closed: finished. Duration: 17.078397504488628 minutes
+Total duration: 17.14 minutes
+Spider_7 closed: finished. Duration: 0.7184130469957988 minutes
+Spider_10 closed: finished. Duration: 0.7608908732732137 minutes
+Spider_8 closed: finished. Duration: 0.8370046019554138 minutes
+Spider_6 closed: finished. Duration: 0.8490897059440613 minutes
+Spider_9 closed: finished. Duration: 0.8512489676475525 minutes
+Spider_4 closed: finished. Duration: 0.8725255370140076 minutes
+Spider_5 closed: finished. Duration: 0.9468134800593059 minutes
+Spider_3 closed: finished. Duration: 1.236785348256429 minutes
+Spider_2 closed: finished. Duration: 1.8367108583450318 minutes
+Spider_1 closed: finished. Duration: 2.377844874064128 minutes
+Total duration: 2.43 minutes
+Spider_30 closed: finished. Duration: 5.473569703102112 minutes
+Spider_31 closed: finished. Duration: 5.475811163584392 minutes
+Spider_36 closed: finished. Duration: 5.508877567450205 minutes
+Spider_22 closed: finished. Duration: 5.5210443099339805 minutes
+Spider_34 closed: finished. Duration: 5.535119012991587 minutes
+Spider_3 closed: finished. Duration: 6.06688688993454 minutes
+Spider_5 closed: finished. Duration: 6.108307500680287 minutes
+Spider_13 closed: finished. Duration: 6.087132676442464 minutes
+Spider_11 closed: finished. Duration: 6.163840659459432 minutes
+Spider_6 closed: finished. Duration: 6.185814913113912 minutes
+Spider_17 closed: finished. Duration: 6.148993388811747 minutes
+Spider_35 closed: finished. Duration: 6.2494776527086895 minutes
+Spider_8 closed: finished. Duration: 6.319960129261017 minutes
+Spider_38 closed: finished. Duration: 6.261969355742137 minutes
+Spider_42 closed: finished. Duration: 6.277297687530518 minutes
+Spider_21 closed: finished. Duration: 6.269968378543854 minutes
+Spider_39 closed: finished. Duration: 6.261038589477539 minutes
+Spider_7 closed: finished. Duration: 6.305770520369212 minutes
+Spider_41 closed: finished. Duration: 6.2765102307001746 minutes
+Spider_44 closed: finished. Duration: 6.256617883841197 minutes
+Spider_15 closed: finished. Duration: 6.287042792638143 minutes
+Spider_16 closed: finished. Duration: 6.29328932762146 minutes
+Spider_29 closed: finished. Duration: 6.288386829694113 minutes
+Spider_46 closed: finished. Duration: 6.278859345118205 minutes
+Spider_32 closed: finished. Duration: 6.311158247788748 minutes
+Spider_28 closed: finished. Duration: 6.30121564467748 minutes
+Spider_43 closed: finished. Duration: 6.29616090854009 minutes
+Spider_12 closed: finished. Duration: 6.327551539738973 minutes
+Spider_10 closed: finished. Duration: 6.335612213611602 minutes
+Spider_14 closed: finished. Duration: 6.348475213845571 minutes
+Spider_26 closed: finished. Duration: 6.319712519645691 minutes
+Spider_37 closed: finished. Duration: 6.309255623817444 minutes
+Spider_50 closed: finished. Duration: 6.308147609233856 minutes
+Spider_33 closed: finished. Duration: 6.3213837822278345 minutes
+Spider_48 closed: finished. Duration: 6.326138671239217 minutes
+Spider_47 closed: finished. Duration: 6.317760988076528 minutes
+Spider_9 closed: finished. Duration: 6.37493421236674 minutes
+Spider_45 closed: finished. Duration: 6.3276797691981 minutes
+Spider_23 closed: finished. Duration: 6.364417437712351 minutes
+Spider_19 closed: finished. Duration: 6.3477610429128015 minutes
+Spider_18 closed: finished. Duration: 6.361878665288289 minutes
+Spider_20 closed: finished. Duration: 6.360016942024231 minutes
+Spider_24 closed: finished. Duration: 6.374992954730987 minutes
+Spider_25 closed: finished. Duration: 6.418643307685852 minutes
+Spider_27 closed: finished. Duration: 6.410570895671844 minutes
+Spider_4 closed: finished. Duration: 6.446593431631724 minutes
+Spider_2 closed: finished. Duration: 6.614514791965485 minutes
+Spider_1 closed: finished. Duration: 6.706927005449931 minutes
+Spider_49 closed: finished. Duration: 6.656776614983877 minutes
+Spider_40 closed: finished. Duration: 6.79072337547938 minutes
+Total duration: 6.96 minutes
+Spider_23 closed: finished. Duration: 5.53126083612442 minutes
+Spider_19 closed: finished. Duration: 5.528994699319203 minutes
+Spider_13 closed: finished. Duration: 5.613615643978119 minutes
+Spider_50 closed: finished. Duration: 5.780596776803335 minutes
+Spider_46 closed: finished. Duration: 5.941651821136475 minutes
+Spider_22 closed: finished. Duration: 6.173211487134298 minutes
+Spider_45 closed: finished. Duration: 6.280288505554199 minutes
+Spider_7 closed: finished. Duration: 6.227904232343038 minutes
+Spider_29 closed: finished. Duration: 6.254647095998128 minutes
+Spider_34 closed: finished. Duration: 6.374505440394084 minutes
+Spider_33 closed: finished. Duration: 6.2972574710845945 minutes
+Spider_32 closed: finished. Duration: 6.318301030000051 minutes
+Spider_6 closed: finished. Duration: 6.3483262737592066 minutes
+Spider_37 closed: finished. Duration: 6.324044740200042 minutes
+Spider_12 closed: finished. Duration: 6.3444130976994835 minutes
+Spider_31 closed: finished. Duration: 6.379221455256144 minutes
+Spider_44 closed: finished. Duration: 6.339575938383738 minutes
+Spider_4 closed: finished. Duration: 6.413455430666605 minutes
+Spider_48 closed: finished. Duration: 6.348335878054301 minutes
+Spider_3 closed: finished. Duration: 6.426726114749909 minutes
+Spider_41 closed: finished. Duration: 6.432287661234538 minutes
+Spider_49 closed: finished. Duration: 6.390301529566447 minutes
+Spider_28 closed: finished. Duration: 6.508965456485749 minutes
+Spider_47 closed: finished. Duration: 6.4935978611310325 minutes
+Spider_14 closed: finished. Duration: 6.486210918426513 minutes
+Spider_25 closed: finished. Duration: 6.495178667704264 minutes
+Spider_35 closed: finished. Duration: 6.429101884365082 minutes
+Spider_43 closed: finished. Duration: 6.423043155670166 minutes
+Spider_27 closed: finished. Duration: 6.437488369146982 minutes
+Spider_18 closed: finished. Duration: 6.461901744206746 minutes
+Spider_8 closed: finished. Duration: 6.477980609734853 minutes
+Spider_20 closed: finished. Duration: 6.460740677515665 minutes
+Spider_17 closed: finished. Duration: 6.488172817230224 minutes
+Spider_38 closed: finished. Duration: 6.4578560074170435 minutes
+Spider_2 closed: finished. Duration: 6.49408784310023 minutes
+Spider_21 closed: finished. Duration: 6.477691392103831 minutes
+Spider_40 closed: finished. Duration: 6.471065791447957 minutes
+Spider_36 closed: finished. Duration: 6.478039896488189 minutes
+Spider_11 closed: finished. Duration: 6.51496592760086 minutes
+Spider_42 closed: finished. Duration: 6.485798152287801 minutes
+Spider_26 closed: finished. Duration: 6.533624891440073 minutes
+Spider_10 closed: finished. Duration: 6.552308277289073 minutes
+Spider_39 closed: finished. Duration: 6.512878866990407 minutes
+Spider_24 closed: finished. Duration: 6.614833271503448 minutes
+Spider_9 closed: finished. Duration: 6.753213568528493 minutes
+Spider_15 closed: finished. Duration: 6.731414751211802 minutes
+Spider_5 closed: finished. Duration: 6.804016029834747 minutes
+Spider_16 closed: finished. Duration: 6.942698136965434 minutes
+Spider_30 closed: finished. Duration: 6.953001828988393 minutes
+Spider_1 closed: finished. Duration: 8.14736841917038 minutes
+Total duration: 8.29 minutes
+Spider_1 closed: finished. Duration: 0.21328959465026856 minutes
+Spider_2 closed: finished. Duration: 0.21336935758590697 minutes
+Total duration: 0.23 minutes
+Spider_1 closed: finished. Duration: 0.21959443092346193 minutes
+Spider_2 closed: finished. Duration: 1.2836589137713115 minutes
+Spider_1 closed: finished. Duration: 1.3133162657419841 minutes
+Total duration: 1.35 minutes
+Spider_2 closed: finished. Duration: 1.4445505619049073 minutes
+Spider_1 closed: finished. Duration: 1.8865082025527955 minutes
+Total duration: 1.92 minutes
+Total duration: 0.02 minutes
+Spider_1 closed: finished. Duration: 1.756491494178772 minutes
+Spider_2 closed: finished. Duration: 3.417178726196289 minutes
+Total duration: 3.45 minutes
+Spider_2 closed: finished. Duration: 1.255872869491577 minutes
+Spider_1 closed: finished. Duration: 1.6154533783594767 minutes
+Total duration: 1.65 minutes

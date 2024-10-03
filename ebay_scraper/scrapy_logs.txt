@@ -1,0 +1,116 @@
+2024-07-24 23:09:36 [scrapy.utils.log] INFO: Scrapy 2.11.2 started (bot: ebay_scraper)
+2024-07-24 23:09:36 [scrapy.utils.log] INFO: Scrapy 2.11.2 started (bot: ebay_scraper)
+2024-07-24 23:09:36 [scrapy.utils.log] INFO: Versions: lxml 5.2.2.0, libxml2 2.12.6, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.3.0, Python 3.11.9 (main, Apr  6 2024, 17:59:24) [GCC 11.4.0], pyOpenSSL 24.1.0 (OpenSSL 3.2.2 4 Jun 2024), cryptography 42.0.8, Platform Linux-6.5.0-41-generic-x86_64-with-glibc2.35
+2024-07-24 23:09:36 [scrapy.utils.log] INFO: Versions: lxml 5.2.2.0, libxml2 2.12.6, cssselect 1.2.0, parsel 1.9.1, w3lib 2.2.1, Twisted 24.3.0, Python 3.11.9 (main, Apr  6 2024, 17:59:24) [GCC 11.4.0], pyOpenSSL 24.1.0 (OpenSSL 3.2.2 4 Jun 2024), cryptography 42.0.8, Platform Linux-6.5.0-41-generic-x86_64-with-glibc2.35
+2024-07-24 23:09:36 [scrapy.addons] INFO: Enabled addons:
+[]
+2024-07-24 23:09:36 [scrapy.addons] INFO: Enabled addons:
+[]
+2024-07-24 23:09:36 [scrapy.extensions.telnet] INFO: Telnet Password: 25d608d490a84a78
+2024-07-24 23:09:36 [scrapy.extensions.telnet] INFO: Telnet Password: d3449ba2de7c57c0
+2024-07-24 23:09:36 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.throttle.AutoThrottle']
+2024-07-24 23:09:36 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.throttle.AutoThrottle']
+2024-07-24 23:09:36 [scrapy.crawler] INFO: Overridden settings:
+{'AUTOTHROTTLE_ENABLED': True,
+ 'AUTOTHROTTLE_MAX_DELAY': 1,
+ 'AUTOTHROTTLE_START_DELAY': 0.1,
+ 'AUTOTHROTTLE_TARGET_CONCURRENCY': 100,
+ 'BOT_NAME': 'ebay_scraper',
+ 'CONCURRENT_REQUESTS': 100,
+ 'COOKIES_ENABLED': False,
+ 'DOWNLOAD_DELAY': 0.1,
+ 'FEED_EXPORT_ENCODING': 'utf-8',
+ 'LOG_FILE': 'scrapy_logs.txt',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'ebay_scraper.spiders',
+ 'RANDOMIZE_DOWNLOAD_DELAY': False,
+ 'REQUEST_FINGERPRINTER_IMPLEMENTATION': '2.7',
+ 'RETRY_HTTP_CODES': [403, 407, 502, 500, 503, 504, 400, 429, 408],
+ 'RETRY_TIMES': 3,
+ 'SPIDER_MODULES': ['ebay_scraper.spiders'],
+ 'TWISTED_REACTOR': 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'}
+2024-07-24 23:09:36 [scrapy.crawler] INFO: Overridden settings:
+{'AUTOTHROTTLE_ENABLED': True,
+ 'AUTOTHROTTLE_MAX_DELAY': 1,
+ 'AUTOTHROTTLE_START_DELAY': 0.1,
+ 'AUTOTHROTTLE_TARGET_CONCURRENCY': 100,
+ 'BOT_NAME': 'ebay_scraper',
+ 'CONCURRENT_REQUESTS': 100,
+ 'COOKIES_ENABLED': False,
+ 'DOWNLOAD_DELAY': 0.1,
+ 'FEED_EXPORT_ENCODING': 'utf-8',
+ 'LOG_FILE': 'scrapy_logs.txt',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'ebay_scraper.spiders',
+ 'RANDOMIZE_DOWNLOAD_DELAY': False,
+ 'REQUEST_FINGERPRINTER_IMPLEMENTATION': '2.7',
+ 'RETRY_HTTP_CODES': [403, 407, 502, 500, 503, 504, 400, 429, 408],
+ 'RETRY_TIMES': 3,
+ 'SPIDER_MODULES': ['ebay_scraper.spiders'],
+ 'TWISTED_REACTOR': 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'}
+2024-07-24 23:09:36 [twisted] CRITICAL: Unhandled error in Deferred:
+2024-07-24 23:09:36 [twisted] CRITICAL: 
+Traceback (most recent call last):
+  File "/home/oma_b/code-X/scrapy_projects/.venv/lib/python3.11/site-packages/twisted/internet/defer.py", line 2003, in _inlineCallbacks
+    result = context.run(gen.send, result)
+  File "/home/oma_b/code-X/scrapy_projects/.venv/lib/python3.11/site-packages/scrapy/crawler.py", line 158, in crawl
+    self.engine = self._create_engine()
+  File "/home/oma_b/code-X/scrapy_projects/.venv/lib/python3.11/site-packages/scrapy/crawler.py", line 172, in _create_engine
+    return ExecutionEngine(self, lambda _: self.stop())
+  File "/home/oma_b/code-X/scrapy_projects/.venv/lib/python3.11/site-packages/scrapy/core/engine.py", line 100, in __init__
+    self.downloader: Downloader = downloader_cls(crawler)
+  File "/home/oma_b/code-X/scrapy_projects/.venv/lib/python3.11/site-packages/scrapy/core/downloader/__init__.py", line 97, in __init__
+    DownloaderMiddlewareManager.from_crawler(crawler)
+  File "/home/oma_b/code-X/scrapy_projects/.venv/lib/python3.11/site-packages/scrapy/middleware.py", line 90, in from_crawler
+    return cls.from_settings(crawler.settings, crawler)
+  File "/home/oma_b/code-X/scrapy_projects/.venv/lib/python3.11/site-packages/scrapy/middleware.py", line 67, in from_settings
+    mw = create_instance(mwcls, settings, crawler)
+  File "/home/oma_b/code-X/scrapy_projects/.venv/lib/python3.11/site-packages/scrapy/utils/misc.py", line 188, in create_instance
+    instance = objcls.from_crawler(crawler, *args, **kwargs)
+  File "/home/oma_b/code-X/scrapy_projects/.venv/lib/python3.11/site-packages/scrapy/downloadermiddlewares/retry.py", line 157, in from_crawler
+    return cls(crawler.settings)
+  File "/home/oma_b/code-X/scrapy_projects/ebay_scraper/ebay_scraper/middlewares.py", line 93, in __init__
+    self.proxy_list = self.load_proxy_list(settings.get('PROXY_LIST'))
+  File "/home/oma_b/code-X/scrapy_projects/ebay_scraper/ebay_scraper/middlewares.py", line 106, in load_proxy_list
+    self.logger.info(f'Loaded proxies: {proxies}')
+  File "/home/oma_b/code-X/scrapy_projects/.venv/lib/python3.11/site-packages/scrapy/downloadermiddlewares/retry.py", line 39, in backwards_compatibility_getattr
+    raise AttributeError(
+AttributeError: 'CustomRetryMiddleware' object has no attribute 'logger'
+2024-07-24 23:09:36 [twisted] CRITICAL: Unhandled error in Deferred:
+2024-07-24 23:09:36 [twisted] CRITICAL: 
+Traceback (most recent call last):
+  File "/home/oma_b/code-X/scrapy_projects/.venv/lib/python3.11/site-packages/twisted/internet/defer.py", line 2003, in _inlineCallbacks
+    result = context.run(gen.send, result)
+  File "/home/oma_b/code-X/scrapy_projects/.venv/lib/python3.11/site-packages/scrapy/crawler.py", line 158, in crawl
+    self.engine = self._create_engine()
+  File "/home/oma_b/code-X/scrapy_projects/.venv/lib/python3.11/site-packages/scrapy/crawler.py", line 172, in _create_engine
+    return ExecutionEngine(self, lambda _: self.stop())
+  File "/home/oma_b/code-X/scrapy_projects/.venv/lib/python3.11/site-packages/scrapy/core/engine.py", line 100, in __init__
+    self.downloader: Downloader = downloader_cls(crawler)
+  File "/home/oma_b/code-X/scrapy_projects/.venv/lib/python3.11/site-packages/scrapy/core/downloader/__init__.py", line 97, in __init__
+    DownloaderMiddlewareManager.from_crawler(crawler)
+  File "/home/oma_b/code-X/scrapy_projects/.venv/lib/python3.11/site-packages/scrapy/middleware.py", line 90, in from_crawler
+    return cls.from_settings(crawler.settings, crawler)
+  File "/home/oma_b/code-X/scrapy_projects/.venv/lib/python3.11/site-packages/scrapy/middleware.py", line 67, in from_settings
+    mw = create_instance(mwcls, settings, crawler)
+  File "/home/oma_b/code-X/scrapy_projects/.venv/lib/python3.11/site-packages/scrapy/utils/misc.py", line 188, in create_instance
+    instance = objcls.from_crawler(crawler, *args, **kwargs)
+  File "/home/oma_b/code-X/scrapy_projects/.venv/lib/python3.11/site-packages/scrapy/downloadermiddlewares/retry.py", line 157, in from_crawler
+    return cls(crawler.settings)
+  File "/home/oma_b/code-X/scrapy_projects/ebay_scraper/ebay_scraper/middlewares.py", line 93, in __init__
+    self.proxy_list = self.load_proxy_list(settings.get('PROXY_LIST'))
+  File "/home/oma_b/code-X/scrapy_projects/ebay_scraper/ebay_scraper/middlewares.py", line 106, in load_proxy_list
+    self.logger.info(f'Loaded proxies: {proxies}')
+  File "/home/oma_b/code-X/scrapy_projects/.venv/lib/python3.11/site-packages/scrapy/downloadermiddlewares/retry.py", line 39, in backwards_compatibility_getattr
+    raise AttributeError(
+AttributeError: 'CustomRetryMiddleware' object has no attribute 'logger'
